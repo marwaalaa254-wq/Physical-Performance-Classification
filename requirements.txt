@@ -1,0 +1,11 @@
+numpy>=1.26,<3.0
+pandas>=2.0,<3.0
+scikit-learn>=1.3,<2.0
+joblib>=1.3,<2.0
+pytest>=7.4,<10.0
+
+# Optional: only required to re-run the EDA/notebook cells in notebooks/.
+# NOT required for train.py / evaluate.py / inference.py.
+matplotlib>=3.7,<4.0
+seaborn>=0.12,<1.0
+scipy>=1.11,<2.0
