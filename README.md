@@ -270,7 +270,7 @@ qualified human assessment.
 
 ## Team
 
-Marwa, Radwa, Basma, Yomna (see `notebooks/Body_Performance_Notebook.ipynb`
+Marwa, [Radwa](https://github.com/radwaelashry30-crypto), [Basma](https://github.com/BasmaMansour99), Yomna (see `notebooks/Body_Performance_Notebook.ipynb`
 and the presentation deck for the original course submission roster).
 
 ## Report & Presentation
