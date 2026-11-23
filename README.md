@@ -1,4 +1,4 @@
-# Physio-Intel
+# Physical Performance Classification
 
 **Classify physical fitness from biometric measurements.**
 
