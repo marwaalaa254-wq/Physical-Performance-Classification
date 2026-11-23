@@ -10,7 +10,7 @@ built on the Body Performance Data dataset (13,393 South Korean adults).
 
 ## Project Overview
 
-Physio-Intel is a 4-class classification system that predicts a performance
+Physical Performance Classification is a 4-class classification system that predicts a performance
 grade from 11 biometric and performance-test features: age, gender, height,
 weight, body fat %, blood pressure (diastolic/systolic), grip force,
 flexibility (sit-and-bend-forward), sit-ups count, and broad jump distance.
@@ -139,7 +139,7 @@ Strongest positive predictors: `gender` (male), `sit-ups counts`,
 ## Project Structure
 
 ```
-Physio-Intel-ML-Classification/
+Physical-Performance-Classification/
 ├── README.md
 ├── AUDIT_NOTES.md
 ├── requirements.txt
@@ -263,7 +263,7 @@ notebook's own verified per-model cells (see `AUDIT_NOTES.md`). Running
 
 ## Responsible-Use Disclaimer
 
-Physio-Intel is a research and educational project. Do not use its
+Physical Performance Classification is a research and educational project. Do not use its
 predictions as the sole basis for medical, insurance, employment, or other
 consequential decisions about an individual. Pair automated grading with
 qualified human assessment.
